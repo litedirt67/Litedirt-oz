@@ -1,0 +1,6 @@
+{
+  "name": "LiteDirt",
+  "description": "Lightweight Android 10 (Q) virtual workspace, APK & folder vault, custom VM image builder, multitasking switcher, realtime screen sharing, and wireless root bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

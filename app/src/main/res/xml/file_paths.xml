@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="vm_vault" path="vm_vault/" />
+    <files-path name="vm_images" path="vm_images/" />
+    <cache-path name="vm_cache" path="." />
+</paths>

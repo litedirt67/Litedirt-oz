@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LiteDirt</string>
+    <string name="nav_vms">VMs</string>
+    <string name="nav_vault">Files</string>
+    <string name="nav_builder">Image</string>
+    <string name="nav_share">Share &amp; Root</string>
+    <string name="screen_share_channel_name">Realtime Screen Share</string>
+    <string name="screen_share_channel_desc">Streams VM and device display frames over local Wi-Fi</string>
+    <string name="screen_share_notif_title">LiteDirt Realtime Share Active</string>
+    <string name="screen_share_notif_text">Streaming live screen feed on local network</string>
+    <string name="stop_share">Stop Share</string>
+</resources>
